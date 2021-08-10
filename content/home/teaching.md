@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 120
 
-title: Projects
+title: Teaching
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: teaching
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -25,12 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Software Validation and Verification
-    tag: Finite
-  - name: SUSTAIN
-    tag: SUSTAIN
-  - name: COVID-19 Spread Indoors
-    tag: COVID
+  - name: Software Engineering
+    tag: DbC
+  - name: Data Science
+    tag: Data
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
