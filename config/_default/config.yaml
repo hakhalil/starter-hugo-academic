@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Dr. Hoda Khalil # Website name
+title: Hoda Khalil, PhD, EIT # Website name
 baseurl: 'https://hakhalil.github.io/' #Website URL
 copyright: '© 2021 Dr. Hoda Khalil' # Footer text, e.g. '© {year} Me'
 
