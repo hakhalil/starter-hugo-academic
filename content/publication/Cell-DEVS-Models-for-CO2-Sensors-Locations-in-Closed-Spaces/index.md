@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cell DEVS Models for CO2 Sensors Locations in Closed Spaces"
-authors: [Hoda Khalil, Zachary Dunnigan, Gabriel Wainer]
+authors: [Hoda Khalil, Zachary Dunnigan, and Gabriel Wainer]
 date: 2020-12-14T22:18:17-04:00
 doi: "10.1109/WSC48552.2020.9383937"
 
