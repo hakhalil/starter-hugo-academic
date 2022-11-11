@@ -6,7 +6,7 @@ title: Dr. Hoda Khalil
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow and Contract Instructor
+role: Adjunct Research Professor and Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,8 +58,10 @@ email: "hodakhalil@carleton.ca"
 highlight_name: false
 ---
 
-I am a postdoctoral fellow working on multidisciplinary projects involving climate change and sustainability. My research combines software engineering and modeling and simulation. I also work as a Contract Instructor at Carleton University teaching Data Science and Software Engineering (Requirement Elicitation, Data Structures, and Model-Driven Engineering). 
+I am an Adjunct Research Professor at Carleton University. My research work covers Software Engineering, Data Science, and Modeling & Simulation. My work has been published in top peer-reviewed journals and conferences. I have received multiple scholarships and awards including the W.B. McDermid Holbein Memorial award for outstanding academic achievement. 
 
-I received my Ph.D. degree from Carleton University in 2018 in Electrical and Computer Engineering with a major in Software Engineering, a thesis focused on model-based testing and a minor in operations research. 
+Since 2019, I have been designing curricula, developing course material, and teaching Data Science and Software Engineering at the graduate and undergraduate levels. I have earned several certificates in designing courses and teaching at the university level. I adopt various strategies of experiential learning and I promote bridging the gap between industry and academia through my teaching and collaborative efforts. In 2022, I received Carleton University’s teaching achievement award for my effort in this area. I have considerable experience in the software industry.
 
-Before moving to academia, I have gained industrial experience through working as a software developer, software team lead, and project manager. I have received several training and certificates in software engineering, management, entrepreneurship, university teaching, and course design.
+Besides my academic roles, I currently works as a Senior Project Engineer for the Government of Canada. Furthermore, I am an advocate and supporter of women in STEM. This is apparent through my different volunteering roles and contributions to the IEEE Women in Engineering publications, Technovation, and the Ontario Women in Engineering organization.
+
+I received my Ph.D. degree from Carleton University in 2018 in Electrical and Computer Engineering with a major in Software Engineering, a minor in Operations Research, and a thesis focused on model-based testing. From 2015 to 2018 I worked as a postdoctoral fellow and a research assistant at the Software Quality Engineering Lab at Carleton University. Then, I worked as a postdoctoral research associate at the Advanced Realtime Simulation Lab until 2022. I am a member of the IEEE and the ACM.

@@ -11,6 +11,12 @@ design:
   columns: '2'
   
 ---
+•	Program Committee Member, the IEEE International Conference on Data Science and Advanced Analytics (DSAA) (2022-present)
+http://dsaa2022.dsaa.co/
+
+•	Mentor and Judge, Technovation Girls(2021-present)
+https://my.technovationchallenge.org/
+
 •	Reviewer, Transactions of the Society for Modeling and Simulation International (Simulations) (2021-Present)
 https://journals.sagepub.com/home/sim
 

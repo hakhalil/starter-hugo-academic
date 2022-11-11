@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.	
 experience:
+  - title: Adjunct Research Professor
+    company: Systems and Computer Engineering, Carleton Univer
+    company_url: 'https://carleton.ca/sce/'
+    #company_logo: org-gc
+    location: Ottawa, Canada
+    date_start: '2022-09-10'
+    date_end: ''
+    description: Data Science, Software Engineering, Modeling and Simulation
+        ##Responsibilities include:
+        
+        #* Researching Cell-DEVS and DEVS modeling and simulation
+        #* Deploying
   - title: Postdoctoral Fellow
     company: Advanced Real-Time Simulation Laboratory
     company_url: 'https://arslab.sce.carleton.ca/'
     #company_logo: org-gc
     location: Ottawa, Canada
     date_start: '2019-04-10'
-    date_end: ''
+    date_end: '2022-04-10'
     description: Researching Cellular Discrete Event Specifications (Cell-DEVS) Modeling and Simulation #|2-
         ##Responsibilities include:
         

@@ -11,6 +11,9 @@ design:
   columns: '2'
   
 ---
+"Canadians are relocating for jobs amid steep inflation and low unemployment," The Conversation, July 13, 2022.
+https://theconversation.com/canadians-are-relocating-for-jobs-amid-steep-inflation-and-low-unemployment-186189
+ 
 “Rethink ventilation for a safe return to schools after the COVID-19 pandemic,” The Conversation, July 5, 2021. 
 https://theconversation.com/rethink-ventilation-for-a-safe-return-to-schools-after-the-covid-19-pandemic-163219
 
