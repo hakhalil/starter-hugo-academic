@@ -14,6 +14,9 @@ design:
 "Canadians are relocating for jobs amid steep inflation and low unemployment," The Conversation, July 13, 2022.
 https://theconversation.com/canadians-are-relocating-for-jobs-amid-steep-inflation-and-low-unemployment-186189
  
+"Five Tips for Navigating the Workplace: Value your rights and identity while maintaining the rights of others," IEEE Wmen in Engineering, November 4, 2021.
+https://ieeexplore.ieee.org/abstract/document/9600637
+
 “Rethink ventilation for a safe return to schools after the COVID-19 pandemic,” The Conversation, July 5, 2021. 
 https://theconversation.com/rethink-ventilation-for-a-safe-return-to-schools-after-the-covid-19-pandemic-163219
 

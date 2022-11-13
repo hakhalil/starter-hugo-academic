@@ -4,7 +4,7 @@
 title: "CD2: an AUTOMATION TOOL for CELL DEVS CO2 DIFFUSION MODELS"
 authors: [Hoda Khalil and Gabrial Wainer]
 date: 2021-07-19T23:36:16-04:00
-doi: ""
+doi: "10.23919/ANNSIM52504.2021.9552044"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-11T23:36:16-04:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.computer.org/csdl/proceedings-article/annsim/2021/09552044/1xsdJllPxM4
 url_code:
 url_dataset:
 url_poster:

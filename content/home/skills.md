@@ -16,16 +16,25 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- icon: open-data
+  icon_pack: ai
+  name: Data Science
+- icon: laptop-code
+  icon_pack: fas
+  name: Software Engineering
 - icon: google-scholar
   icon_pack: ai
   name: Research
-- icon: laptop-code
-  icon_pack: fas
-  name: Software Development & Management
 - icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
-
+- icon: clipboard-check
+  icon_pack: fas
+  name: Project Management
+- icon: palette
+  icon_pack: fas
+  name: Art Work
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -32,7 +32,7 @@ https://scs.org/annsim/
 •	Reviewer, IEEE Transactions on Computational Social Systems (2020-Present)
 https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650
 
-•	Reviewer, Winter Simulation Conference (WSC) (2019-Present)
+•	Program Committee, Winter Simulation Conference (WSC) (2019-Present)
 http://meetings2.informs.org/wordpress/wsc2021/
 
 •	Volunteer, Organization Committee, International Symposium on Software Reliability Engineering (ISSRE) (2016)
