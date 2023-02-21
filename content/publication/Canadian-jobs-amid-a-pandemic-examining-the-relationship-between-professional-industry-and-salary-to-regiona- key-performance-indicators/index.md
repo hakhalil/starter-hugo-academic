@@ -4,7 +4,7 @@
 title: "Canadian Jobs amid a Pandemic: Examining the Relationship between Professional Industry and Salary to Regional Key Performance Indicators"
 authors: [Rahul Anilkumar, Benjamin Melone, Michael Patsula, Christophe Tran, Christopher Wang, Kevin Dick, Hoda Khalil, and Gabriel Wainer]
 date: 2022-06-27T23:28:15-04:00
-doi: "110.1109/COMPSAC54236.2022.00041"
+doi: "10.1109/COMPSAC54236.2022.00041"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-06-27T23:28:15-04:00
